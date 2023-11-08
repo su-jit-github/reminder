@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "userData": [
+    {
+      "name": "arabinda",
+      "email": "arabinda@gmail.com",
+      "phone": "123456789",
+      "pass": "12345678",
+      "id": 1
+    },
+    {
+      "name": "arabinda",
+      "email": "arabinda@gmail.com",
+      "phone": "123456789",
+      "pass": "12345678",
+      "id": 2
+    },
+    {
+      "name": "kalpana",
+      "email": "dask@gmail.com",
+      "phone": "123456789",
+      "pass": "123456",
+      "id": 3
+    }
+  ],
+  "activeUser": {
+    "isCurrentUser": false
+  },
+  "reminderList": [
+    {
+      "rDate": "2023-10-09",
+      "subject": "socialmediapost",
+      "desc": "dsdsdhlfs",
+      "email": "dsfkljdskjlfds",
+      "contact": "sdfkdsfkjlds",
+      "sms": "sdfndskfsd",
+      "rnext": "7",
+      "remName": "sdlkjdsk",
+      "isActive": false,
+      "id": 1
+    }
+  ]
+}
